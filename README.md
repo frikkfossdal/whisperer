@@ -11,7 +11,7 @@ I have a bunch of spare parts lying around that I want to combine into a machine
 ## Machine design 
 
 ### Motion 
-For motion I will be using a custom branch from the [Fabricatable Machines project](https://github.com/fellesverkstedet/fabricatable-machines). The axis plates themselves will be made out POM, and will rely on material flexures for alignment and thighness. Precision-wise this is a gamble, especially for milling harder stuff, but in the name of exploration I will give it a go. For the rails, I will use some alu-extrusions I had lying around. For actuation, I will use NEMA23s driving lead screws. This is defenately a deviation from some of the Fabricatable philosophy, but Im excited to give it a go. This is always something I can come back to at a later point.
+For motion I will be using a custom branch from the [Fabricatable Machines](https://github.com/fellesverkstedet/fabricatable-machines) project. The axis plates themselves will be made out POM, and will rely on material flexures for alignment and thighness. Precision-wise this is a gamble, especially for milling harder stuff, but in the name of exploration I will give it a go. For the rails, I will use some alu-extrusions I had lying around. For actuation, I will use NEMA23s driving lead screws. This is defenately a deviation from some of the Fabricatable philosophy, but Im excited to give it a go. This is always something I can come back to at a later point.
 
 ### Software & Control 
 
